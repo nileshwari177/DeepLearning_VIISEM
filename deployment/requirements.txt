@@ -1,7 +1,6 @@
-@"
+
 streamlit
 numpy
 pandas
 scipy
 scikit-learn
-"@ | Out-File -Encoding utf8 deployment/requirements.txt
